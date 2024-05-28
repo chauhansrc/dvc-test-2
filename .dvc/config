@@ -1,0 +1,3 @@
+[cache]
+    dir = /datadrive/datasets/dvc_test/cache3/
+    type = "reflink,symlink,hardlink,copy"
