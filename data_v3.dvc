@@ -1,14 +1,14 @@
-md5: a73701461825b3362905646d7a3595e8
+md5: 207936e1cc555209020198a9a7b02b33
 frozen: true
 deps:
-- md5: cd85ad7396da5021a1c5a8eb35361a68.dir
-  size: 2517969
-  nfiles: 5
+- md5: 13ac2d038135b10b81e52a6d0530e78e.dir
+  size: 3416488
+  nfiles: 6
   hash: md5
   path: /datadrive/datasets/dvc_test/data_v3/
 outs:
-- md5: cd85ad7396da5021a1c5a8eb35361a68.dir
-  size: 2517969
-  nfiles: 5
+- md5: 13ac2d038135b10b81e52a6d0530e78e.dir
+  size: 3416488
+  nfiles: 6
   hash: md5
   path: data_v3
